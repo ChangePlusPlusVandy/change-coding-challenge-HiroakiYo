@@ -1,4 +1,4 @@
-I have encountered some internet issue for accessing the API. So Ethan gave me an extension to submit the challenge a bit later. 
+I have encountered some internet issues for accessing the twitter API since I am currently in China, and twitter does not seem to like my IP address. So Ethan gave me an extension to submit the challenge a bit later and use some different APIs he provided to me, since I wasted a lot of time trying to figure out the internet issue.
 
 
 # Change++ 2020 Coding Challenge
