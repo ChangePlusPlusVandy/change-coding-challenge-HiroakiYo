@@ -1,3 +1,6 @@
+I have encountered some internet issue for accessing the API. So Ethan gave me an extension to submit the challenge a bit later. 
+
+
 # Change++ 2020 Coding Challenge
 ## Before You Begin
 
